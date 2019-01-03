@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.204.10.22:8080/</string>
+					<string>https://raw.githubusercontent.com/tabyy/utils/master/hd_20181220.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.204.10.22:8080/</string>
+					<string>https://raw.githubusercontent.com/tabyy/utils/master/180x180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://go.com/Icon.png</string>
+					<string>https://raw.githubusercontent.com/tabyy/utils/master/180x180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
